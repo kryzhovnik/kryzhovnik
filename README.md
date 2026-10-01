@@ -13,7 +13,7 @@ Based in Novi Sad, Serbia. **Open to work.**
 
 ### Open source
 
-- [**generative_ui**](https://github.com/kryzhovnik/generative_ui) — catalog-driven generative UI for RubyLLM apps, with Rails support. ([demo](https://github.com/kryzhovnik/generative_ui-demo))
+- [**generative_ui**](https://github.com/kryzhovnik/generative_ui) — catalog-driven generative UI for RubyLLM apps, with Rails support. ([post](https://msg.samsonov.io/2026-05-21-generative-ui-ruby-llm/))
 - [**ruby_llm-modes**](https://github.com/kryzhovnik/ruby_llm-modes) — route a chat turn to one of several RubyLLM agents with a classifier. ([post](https://msg.samsonov.io/2026-09-26-ruby-llm-modes/))
 - [**fsrs_core**](https://github.com/kryzhovnik/fsrs_core) — the FSRS-6 spaced-repetition algorithm in pure Ruby.
 - [**ednevnik-cli**](https://github.com/kryzhovnik/ednevnik-cli) — unofficial read-only CLI for the Serbian eDnevnik parent portal, in Go.
